@@ -14,5 +14,8 @@
     "a"
   ],
   "author": "a",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.53.2"
+  }
 }
